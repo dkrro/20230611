@@ -25,6 +25,11 @@ body {
     display: none;
 }
 
+li {
+    list-style-type: none;
+    list-style: none;
+}
+
 
 .system_modal{
     position: relative;

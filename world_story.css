@@ -128,46 +128,79 @@ body {
     margin: 0;
     padding: 0;
     scale: 0.7;
+    z-index: 999;
 }
 .start_03{
     position: absolute;
     margin: 0;
     padding: 0;
     scale: 0.7;
+    z-index: 999;
 }
 .start_04{
     position: absolute;
     margin: 0;
     padding: 0;
     scale: 0.7;
+    z-index: 999;
 }
 
 .start_05{
     position: absolute;
     scale: 0.7;
     display: flex;
-    top: 3900px;
-    left: 50px;
+    z-index: 999;
 }
 
-.power:hover{
-    scale: 1.03;
-    transition-duration: 1s;
+.start_06{
+    position: absolute;
+    scale: 0.7;
+    display: flex;
+    z-index: 999;
 }
 
-.ad:hover{
-    scale: 1.03;
-    transition-duration: 1s;
+.start_07{
+    position: absolute;
+    scale: 0.7;
+    display: flex;
+    z-index: 999;
 }
 
-.map:hover{
-    scale: 1.03;
-    transition-duration: 1s;
+.start_08{
+    position: absolute;
+    scale: 0.7;
+    display: flex;
+    z-index: 999;
 }
 
-.story:hover{
-    scale: 1.03;
-    transition-duration: 1s;
+.start_09{
+    position: absolute;
+    scale: 0.7;
+    display: flex;
+    z-index: 999;
+}
+
+.start_10{
+    position: absolute;
+    scale: 0.7;
+    display: flex;
+    z-index: 999;
+}
+
+.start_11{
+    position: absolute;
+    scale: 0.7;
+    display: flex;
+    z-index: 999;
+}
+
+.start_11_btn{
+    position: fixed;
+    bottom: 50px;
+    left: 820px;
+    z-index: 999;
+    scale: 0.7;
+
 }
 
 /* 세계관설명부분 */
